@@ -1,5 +1,5 @@
 # ALGORITMIA-PSeInt
-💻 Ejercicios de Programación con la herramienta PSeInt
+💻 Ejercicios de Programación realizados con la herramienta PSeInt
 - Autor: joagxf
 
 # Descripción
